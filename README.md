@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lasya Raghavendra</h1>
 <h3 align="center">Passionate and ambitious engineering student with a strong drive to stay at the forefront of industry advancements. Possess solid expertise in programming concepts, data structures, and algorithms, allowing for confident resolution of intricate software development challenges. Dedicated researcher in Applied Computer Science, seeking to solve real-world problems. Collaborative team player eager to contribute and learn from collective efforts.</h3>
 
-- 🔭 I’m currently working on **Development of quantum optical components and neural networks. Working on finite-difference time-domain simulation for the design of optical polarization rotators.**
+- 🔭 I’m currently working on ** software and coding techniques for AI-driven music composition and development of quantum optical components and neural networks. Working on finite-difference time-domain simulation for the design of optical polarization rotators.**
 
 - 📫 How to reach me **lasya.gowda07@gmail.com**
 
