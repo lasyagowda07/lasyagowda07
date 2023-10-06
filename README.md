@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Lasya Raghavendra</h1>
 <h3 align="center">Passionate and ambitious engineering student with a strong drive to stay at the forefront of industry advancements. Possess solid expertise in programming concepts, data structures, and algorithms, allowing for confident resolution of intricate software development challenges. Dedicated researcher in Applied Computer Science, seeking to solve real-world problems. Collaborative team player eager to contribute and learn from collective efforts.</h3>
 
-- 🔭 I’m currently working on ** software and coding techniques for AI-driven music composition and development of quantum optical components and neural networks. Working on finite-difference time-domain simulation for the design of optical polarization rotators.**
+- 🔭 I’m currently working on **Software and coding techniques for AI-driven music composition and development of quantum optical components and neural networks. Working on finite-difference time-domain simulation for the design of optical polarization rotators.**
+
+- 🌱 I’m currently learning **Deep learning Concepts**
 
 - 📫 How to reach me **lasya.gowda07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lasyagowda07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasyagowda07" height="30" width="40" /></a>
+<a href="https://kaggle.com/lasyar07d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lasyar07d" height="30" width="40" /></a>
+<a href="https://instagram.com/lasya.gowda07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lasya.gowda07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
