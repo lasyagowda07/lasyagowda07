@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software and coding techniques for AI-driven music composition and development of quantum optical components and neural networks. Working on finite-difference time-domain simulation for the design of optical polarization rotators.**
 
-- 🌱 I’m currently learning **Working on end-eo end projects in AL,ML and Data Science**
+- 🌱 I’m currently learning **Working on end-to-end projects in AL,ML and Data Science**
 
 - 📫 How to reach me **lasya.gowda07@gmail.com**
 
