@@ -1,18 +1,71 @@
 <h1 align="center">Hi 👋, I'm Lasya Raghavendra</h1>
-<h3 align="center">Passionate and ambitious engineering student with a strong drive to stay at the forefront of industry advancements. Possess solid expertise in programming concepts, data structures, and algorithms, allowing for confident resolution of intricate software development challenges. Dedicated researcher in Applied Computer Science, seeking to solve real-world problems. Collaborative team player eager to contribute and learn from collective efforts.</h3>
 
-- 🔭 I’m currently working on **Software and coding techniques for AI-driven music composition and development of quantum optical components and neural networks. Working on finite-difference time-domain simulation for the design of optical polarization rotators.**
+<h3 align="center">
+Data Science Graduate Student | AI/ML Engineer | Building End-to-End Intelligent Systems
+</h3>
 
-- 🌱 I’m currently learning **Working on end-to-end projects in AL,ML and Data Science**
+---
 
-- 📫 How to reach me **lasya.gowda07@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🎓 Master’s in Data Science at George Washington University (GPA: 3.9)
+- 💻 Background in Computer Science with strong foundations in algorithms and systems
+- 🧠 Interested in AI/ML, NLP, Data Engineering, and Applied AI systems
+- ⚡ I enjoy building **end-to-end systems** — from raw data → models → usable outputs
+- 🌍 Passionate about solving real-world problems using data and AI
+
+---
+
+### 🔧 What I’ve Been Building
+
+- 🏆 **Highlight Reel System**  
+  Built an end-to-end ML pipeline to extract key moments from sports tracking data using feature engineering and model optimization (Fβ ~0.9)
+
+- 🤖 **Financial NLP System**  
+  Fine-tuned DistilBERT to classify financial complaints (CFPB dataset), handling noisy text and class imbalance (~84.9% accuracy)
+
+- 🏗️ **Data Engineering @ Jubilee Housing**  
+  Built data pipelines to clean and reconcile multi-source datasets (Apricot + OneSite), improving data accuracy by ~90%
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**  
+Python, SQL, R, Java, C, C++, JavaScript, Go  
+
+**Machine Learning & AI**  
+Scikit-learn, TensorFlow, PyTorch, NLP, Transformers (DistilBERT), Feature Engineering  
+
+**Data & Analytics**  
+Pandas, NumPy, EDA, Data Cleaning, Data Transformation  
+
+**Data Engineering**  
+ETL Pipelines, Apache Airflow, Spark, Hive, PySpark  
+
+**Web & Backend**  
+FastAPI, Django, React.js  
+
+**Tools & Cloud**  
+Git, AWS, Azure, MongoDB, Firebase  
+
+---
+
+### 🌱 Currently Exploring
+
+- Applied AI systems and LLM-based workflows  
+- Building production-like ML pipelines  
+- Data engineering + scalable systems  
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/lasyagowda07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasyagowda07" height="30" width="40" /></a>
-<a href="https://kaggle.com/lasyar07d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lasyar07d" height="30" width="40" /></a>
-<a href="https://instagram.com/lasya.gowda07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lasya.gowda07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lasyagowda07" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+<a href="mailto:lasya.gowda07@gmail.com">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="30" width="40" />
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
