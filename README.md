@@ -18,18 +18,18 @@ Data Science Graduate Student | AI/ML Engineer | Building End-to-End Intelligent
 
 ### 🔧 What I’ve Been Building
 
-- 🏆 **Highlight Reel System**  
+-  **Highlight Reel System**  
   Built an end-to-end ML pipeline to extract key moments from sports tracking data using feature engineering and model optimization (Fβ ~0.9)
 
 - 🤖 **Financial NLP System**  
   Fine-tuned DistilBERT to classify financial complaints (CFPB dataset), handling noisy text and class imbalance (~84.9% accuracy)
 
-- 🏗️ **Data Engineering @ Jubilee Housing**  
+-  **Data Engineering @ Jubilee Housing**  
   Built data pipelines to clean and reconcile multi-source datasets (Apricot + OneSite), improving data accuracy by ~90%
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**  
 Python, SQL, R, Java, C, C++, JavaScript, Go  
@@ -51,7 +51,7 @@ Git, AWS, Azure, MongoDB, Firebase
 
 ---
 
-### 🌱 Currently Exploring
+###  Currently Exploring!
 
 - Applied AI systems and LLM-based workflows  
 - Building production-like ML pipelines  
@@ -59,7 +59,7 @@ Git, AWS, Azure, MongoDB, Firebase
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me:))
 
 <p align="left">
 <a href="https://linkedin.com/in/lasyagowda07" target="blank">
