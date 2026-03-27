@@ -22,7 +22,7 @@ I enjoy working on problems where the data is messy, the requirements are unclea
 - **Financial NLP Classification**  
   Fine-tuned transformer models (DistilBERT) to classify financial complaints, working with noisy, real-world text data
 
-- **Data Engineering at Jubilee Housing**  
+- **Data Science at Jubilee Housing**  
   Built pipelines to reconcile inconsistent datasets across systems, improving data accuracy by around 90 percent
 
 ---
@@ -54,7 +54,7 @@ Git, AWS, Azure, MongoDB, Firebase
 
 ---
 
-### Beyond Code
+### Beyond Code!
 
 - Published research in machine learning, including work on crime data analysis and Alzheimer’s detection  
 - Built hardware and computer vision systems, including a real-time women’s safety device and object detection systems using microcontrollers  [oai_citation:1‡LASYARAGHAVENDRA_RESUME.pdf](sediment://file_000000006da471fdbcfb3500727649c4)  
@@ -63,7 +63,7 @@ Git, AWS, Azure, MongoDB, Firebase
 
 ---
 
-### Connect
+### Connect!
 
 <p align="left">
 <a href="https://linkedin.com/in/lasyagowda07" target="blank">
