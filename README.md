@@ -1,31 +1,29 @@
-<h1 align="center">Hi 👋, I'm Lasya Raghavendra</h1>
+<h1 align="center">Hi, I'm Lasya Raghavendra</h1>
 
 <h3 align="center">
-Data Science Graduate Student | AI/ML Engineer | Building End-to-End Intelligent Systems
+Building data-driven systems and applied AI solutions that actually work in the real world
 </h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 Master’s in Data Science at George Washington University (GPA: 3.9)
-- 💻 Background in Computer Science with strong foundations in algorithms and systems
-- 🧠 Interested in AI/ML, NLP, Data Engineering, and Applied AI systems
-- ⚡ I enjoy building **end-to-end systems** — from raw data → models → usable outputs
-- 🌍 Passionate about solving real-world problems using data and AI
+I am currently pursuing a Master’s in Data Science at George Washington University with a strong background in Computer Science. Over time, I’ve moved from traditional programming into building end-to-end machine learning systems, working across data engineering, modeling, and turning outputs into usable applications.
+
+I enjoy working on problems where the data is messy, the requirements are unclear, and the solution needs to be practical. My work spans machine learning, natural language processing, and system-level thinking, with a focus on building complete pipelines rather than isolated models.
 
 ---
 
-### 🔧 What I’ve Been Building
+### Selected Work
 
--  **Highlight Reel System**  
-  Built an end-to-end ML pipeline to extract key moments from sports tracking data using feature engineering and model optimization (Fβ ~0.9)
+- **Highlight Extraction System**  
+  Designed an end-to-end pipeline to process sports tracking data, engineer features, train models, and generate stable outputs for real-world use
 
-- 🤖 **Financial NLP System**  
-  Fine-tuned DistilBERT to classify financial complaints (CFPB dataset), handling noisy text and class imbalance (~84.9% accuracy)
+- **Financial NLP Classification**  
+  Fine-tuned transformer models (DistilBERT) to classify financial complaints, working with noisy, real-world text data
 
--  **Data Engineering @ Jubilee Housing**  
-  Built data pipelines to clean and reconcile multi-source datasets (Apricot + OneSite), improving data accuracy by ~90%
+- **Data Engineering at Jubilee Housing**  
+  Built pipelines to reconcile inconsistent datasets across systems, improving data accuracy by around 90 percent
 
 ---
 
@@ -34,32 +32,38 @@ Data Science Graduate Student | AI/ML Engineer | Building End-to-End Intelligent
 **Languages**  
 Python, SQL, R, Java, C, C++, JavaScript, Go  
 
-**Machine Learning & AI**  
-Scikit-learn, TensorFlow, PyTorch, NLP, Transformers (DistilBERT), Feature Engineering  
+**Machine Learning and AI**  
+Scikit-learn, TensorFlow, PyTorch, NLP, Transformers  
 
-**Data & Analytics**  
-Pandas, NumPy, EDA, Data Cleaning, Data Transformation  
+**Data and Engineering**  
+Pandas, NumPy, ETL Pipelines, Apache Airflow, Spark, Hive, PySpark  
 
-**Data Engineering**  
-ETL Pipelines, Apache Airflow, Spark, Hive, PySpark  
-
-**Web & Backend**  
+**Backend and Development**  
 FastAPI, Django, React.js  
 
-**Tools & Cloud**  
+**Tools and Cloud**  
 Git, AWS, Azure, MongoDB, Firebase  
 
 ---
 
-###  Currently Exploring!
+### Currently Exploring
 
-- Applied AI systems and LLM-based workflows  
-- Building production-like ML pipelines  
-- Data engineering + scalable systems  
+- Building applied AI systems using LLMs  
+- Connecting models to real-world workflows  
+- Scalable data pipelines and system design  
 
 ---
 
-### Connect with Me:))
+### Beyond Code
+
+- Published research in machine learning, including work on crime data analysis and Alzheimer’s detection  
+- Built hardware and computer vision systems, including a real-time women’s safety device and object detection systems using microcontrollers  [oai_citation:1‡LASYARAGHAVENDRA_RESUME.pdf](sediment://file_000000006da471fdbcfb3500727649c4)  
+- Experience with simulation-based research in quantum optics and photonics systems  
+- Trained in Bharatanatyam and Carnatic music, with performance and teaching experience  
+
+---
+
+### Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/lasyagowda07" target="blank">
