@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Lasya Raghavendra</h1>
+<h1 align="center">Hi! I'm Lasya Raghavendra:)</h1>
 
-<h3 align="center">
-Building data-driven systems and applied AI solutions that actually work in the real world
-</h3>
 
 ---
 
