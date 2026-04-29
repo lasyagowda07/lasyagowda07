@@ -1,55 +1,115 @@
-# lasya raghavendra
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e8d5c4&height=120&section=header&text=lasya%20raghavendra&fontSize=38&fontColor=5c3d2e&fontAlignY=65&animation=fadeIn&desc=data%20scientist%20%C2%B7%20pipeline%20builder%20%C2%B7%20gw%20university&descSize=13&descAlignY=85&descColor=8b6f5e" />
+</div>
 
-*data scientist · pipeline builder · ms data science @ george washington university*
+<br>
 
----
+<div align="center">
 
-i work on problems where the data is messy, the requirements are unclear, and the solution needs to actually be useful. my work moves across machine learning, nlp, and data engineering — building complete systems rather than isolated experiments.
+*ms data science @ george washington university &nbsp;✦&nbsp; cs background &nbsp;✦&nbsp; washington d.c.*
 
----
+</div>
 
-### selected work
-
-**highlight extraction system** &nbsp;·&nbsp; end-to-end pipeline on sports tracking data — feature engineering, model training, stable real-world outputs
-
-**financial nlp classification** &nbsp;·&nbsp; fine-tuned distilbert on noisy financial complaint text to classify real-world data at scale
-
-**data science @ jubilee housing** &nbsp;·&nbsp; reconciled inconsistent datasets across systems, bringing data accuracy up by ~90%
-
----
-
-### stack
+<br>
 
 ```
-languages    python · sql · r · java · c · c++ · javascript · go
-ml & ai      scikit-learn · tensorflow · pytorch · nlp · transformers
-data eng     pandas · numpy · etl · airflow · spark · hive · pyspark
-backend      fastapi · django · react.js
-cloud        aws · azure · mongodb · firebase · git
+i work on problems where the data is messy, the requirements are unclear,
+and the solution needs to actually work in the real world.
+
+end-to-end pipelines. not isolated models.
 ```
 
----
-
-### currently exploring
-
-- applied ai systems with llms
-- connecting models to real workflows
-- scalable pipelines and system design
+<br>
 
 ---
 
-### beyond the repo
+## ✦ &nbsp; selected work
 
-published research in ml — crime data analysis, alzheimer's detection
+<br>
 
-built hardware + computer vision systems — real-time women's safety device, object detection on microcontrollers
+🎞 &nbsp; **highlight extraction system**
+> end-to-end pipeline on sports tracking data — feature engineering, model training, and stable outputs built for real-world use
 
-simulation-based research in quantum optics and photonics
+<br>
 
-trained in bharatanatyam and carnatic music, with teaching and performance experience
+💬 &nbsp; **financial nlp classification**
+> fine-tuned distilbert on noisy, real-world financial complaint text — wrangling messy language into structured signals
+
+<br>
+
+🏠 &nbsp; **data science @ jubilee housing**
+> built reconciliation pipelines across inconsistent systems — improved data accuracy by around **90%**
+
+<br>
 
 ---
 
-*open to research collaborations, applied ai projects, and interesting problems*
+## ✦ &nbsp; stack
 
-[linkedin](#) &nbsp;·&nbsp; [email](#)
+<br>
+
+<div align="center">
+
+| &nbsp; | &nbsp; |
+|---|---|
+| **languages** | python · sql · r · java · c · c++ · javascript · go |
+| **ml & ai** | scikit-learn · tensorflow · pytorch · nlp · transformers |
+| **data engineering** | pandas · numpy · etl · airflow · spark · hive · pyspark |
+| **backend** | fastapi · django · react.js |
+| **cloud & tools** | aws · azure · mongodb · firebase · git |
+
+</div>
+
+<br>
+
+---
+
+## ✦ &nbsp; currently exploring
+
+<br>
+
+```python
+interests = [
+    "building applied AI systems with LLMs",
+    "connecting models to real-world workflows",
+    "scalable pipelines and system design",
+]
+```
+
+<br>
+
+---
+
+## ✦ &nbsp; beyond the repo
+
+<br>
+
+📄 &nbsp; **published research** — ml applied to crime data analysis & alzheimer's detection
+
+🔧 &nbsp; **hardware + cv** — real-time women's safety device · object detection on microcontrollers
+
+🔬 &nbsp; **simulation research** — quantum optics and photonics systems
+
+🎶 &nbsp; **bharatanatyam & carnatic music** — trained, performing, teaching
+
+<br>
+
+---
+
+<div align="center">
+
+<br>
+
+*open to research collabs, applied ai projects & interesting problems*
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23c8a882.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/email-%23c8a882.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e8d5c4&height=60&section=footer&animation=fadeIn"/>
+
+</div>
