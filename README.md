@@ -1,72 +1,153 @@
-<h1 align="center">Hi! I'm Lasya Raghavendra:)</h1>
+<!-- Header -->
+<div align="center">
 
+```
+██╗      █████╗ ███████╗██╗   ██╗ █████╗
+██║     ██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗
+██║     ███████║███████╗ ╚████╔╝ ███████║
+██║     ██╔══██║╚════██║  ╚██╔╝  ██╔══██║
+███████╗██║  ██║███████║   ██║   ██║  ██║
+╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+```
 
----
+### `Raghavendra`
 
-### About Me
+*data scientist · pipeline architect · lifelong learner*
 
-I am currently pursuing a Master’s in Data Science at George Washington University with a strong background in Computer Science. Over time, I’ve moved from traditional programming into building end-to-end machine learning systems, working across data engineering, modeling, and turning outputs into usable applications.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+end-to-end+ML+systems;Turning+messy+data+into+real+solutions;NLP+%7C+Data+Engineering+%7C+Applied+AI)](https://git.io/typing-svg)
 
-I enjoy working on problems where the data is messy, the requirements are unclear, and the solution needs to be practical. My work spans machine learning, natural language processing, and system-level thinking, with a focus on building complete pipelines rather than isolated models.
-
----
-
-### Selected Work
-
-- **Highlight Extraction System**  
-  Designed an end-to-end pipeline to process sports tracking data, engineer features, train models, and generate stable outputs for real-world use
-
-- **Financial NLP Classification**  
-  Fine-tuned transformer models (DistilBERT) to classify financial complaints, working with noisy, real-world text data
-
-- **Data Science at Jubilee Housing**  
-  Built pipelines to reconcile inconsistent datasets across systems, improving data accuracy by around 90 percent
+</div>
 
 ---
 
-### Tech Stack
+## `whoami`
 
-**Languages**  
-Python, SQL, R, Java, C, C++, JavaScript, Go  
+```python
+lasya = {
+    "education"   : "M.S. Data Science @ George Washington University",
+    "background"  : "Computer Science",
+    "focus"       : ["ML Systems", "NLP", "Data Engineering", "Applied AI"],
+    "philosophy"  : "messy data → clear solutions → real impact",
+    "currently"   : "building applied AI systems with LLMs",
+}
+```
 
-**Machine Learning and AI**  
-Scikit-learn, TensorFlow, PyTorch, NLP, Transformers  
-
-**Data and Engineering**  
-Pandas, NumPy, ETL Pipelines, Apache Airflow, Spark, Hive, PySpark  
-
-**Backend and Development**  
-FastAPI, Django, React.js  
-
-**Tools and Cloud**  
-Git, AWS, Azure, MongoDB, Firebase  
+> *I enjoy working on problems where the data is messy, the requirements are unclear,*
+> *and the solution needs to be practical — building complete pipelines, not isolated models.*
 
 ---
 
-### Currently Exploring
+## `./selected_work`
 
-- Building applied AI systems using LLMs  
-- Connecting models to real-world workflows  
-- Scalable data pipelines and system design  
+<table>
+<tr>
+<td width="50%">
+
+### 🏅 Highlight Extraction System
+Designed an end-to-end pipeline to process sports tracking data, engineer features, train models, and generate stable, real-world outputs.
+
+`ML Pipelines` `Feature Engineering` `Sports Analytics`
+
+</td>
+<td width="50%">
+
+### 💬 Financial NLP Classification
+Fine-tuned DistilBERT transformers to classify financial complaints from noisy, real-world text data.
+
+`DistilBERT` `NLP` `Transformers` `Text Classification`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏠 Data Science @ Jubilee Housing
+Built reconciliation pipelines across inconsistent datasets, improving data accuracy by ~**90%**.
+
+`ETL` `Data Reconciliation` `Pipeline Engineering`
+
+</td>
+<td width="50%">
+
+### 🔬 Beyond the Repo
+Published ML research · real-time hardware + CV systems · quantum optics simulation
+
+`Research` `Computer Vision` `Hardware` `Photonics`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Beyond Code!
+## `tech_stack.json`
 
-- Published research in machine learning, including work on crime data analysis and Alzheimer’s detection  
-- Built hardware and computer vision systems, including a real-time women’s safety device and object detection systems using microcontrollers   
-- Experience with simulation-based research in quantum optics and photonics systems  
-- Trained in Bharatanatyam and Carnatic music, with performance and teaching experience  
+```json
+{
+  "languages"    : ["Python", "SQL", "R", "Java", "C", "C++", "JavaScript", "Go"],
+  "ml_and_ai"   : ["Scikit-learn", "TensorFlow", "PyTorch", "NLP", "Transformers"],
+  "data_eng"    : ["Pandas", "NumPy", "ETL", "Airflow", "Spark", "Hive", "PySpark"],
+  "backend"     : ["FastAPI", "Django", "React.js"],
+  "cloud_tools" : ["AWS", "Azure", "MongoDB", "Firebase", "Git"]
+}
+```
 
 ---
 
-### Connect!
+## `currently_exploring = [`
 
-<p align="left">
-<a href="https://linkedin.com/in/lasyagowda07" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40" />
-</a>
-<a href="mailto:lasya.gowda07@gmail.com">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="30" width="40" />
-</a>
-</p>
+```
+  "Building applied AI systems using LLMs",
+  "Connecting models to real-world workflows",
+  "Scalable data pipelines and system design"
+]
+```
+
+---
+
+## `git log --oneline --highlights`
+
+| Year | Project | Tags |
+|------|---------|------|
+| Recent | Crime Data Analysis (Published) | `Research` `ML` |
+| Recent | Alzheimer's Detection (Published) | `Research` `Deep Learning` |
+| Recent | Real-time Women's Safety Device | `Hardware` `CV` `Microcontrollers` |
+| Recent | Object Detection Systems | `Computer Vision` `Embedded` |
+| Recent | Quantum Optics Simulation | `Simulation` `Research` |
+
+---
+
+## `./beyond_code`
+
+> *Code isn't the only language I speak.*
+
+🎶 **Carnatic Music** — trained vocalist & teacher
+💃 **Bharatanatyam** — trained classical dancer with performance experience
+
+*There's a throughline between structured improvisation in music and building adaptive ML systems. Both require deep pattern recognition, years of practice, and knowing when to break the rules.*
+
+---
+
+<div align="center">
+
+## `ping lasya`
+
+*Open to research collaborations, applied AI projects, and interesting problems.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
+
+---
+
+```
+while alive:
+    learn()
+    build()
+    perform()
+    repeat()
+```
+
+*Made with curiosity · Washington D.C.*
+
+</div>
