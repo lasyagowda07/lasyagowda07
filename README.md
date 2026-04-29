@@ -54,7 +54,7 @@ Git, AWS, Azure, MongoDB, Firebase
 ### Beyond Code!
 
 - Published research in machine learning, including work on crime data analysis and Alzheimer’s detection  
-- Built hardware and computer vision systems, including a real-time women’s safety device and object detection systems using microcontrollers  [oai_citation:1‡LASYARAGHAVENDRA_RESUME.pdf](sediment://file_000000006da471fdbcfb3500727649c4)  
+- Built hardware and computer vision systems, including a real-time women’s safety device and object detection systems using microcontrollers   
 - Experience with simulation-based research in quantum optics and photonics systems  
 - Trained in Bharatanatyam and Carnatic music, with performance and teaching experience  
 
