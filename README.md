@@ -16,7 +16,6 @@
 i work on problems where the data is messy, the requirements are unclear,
 and the solution needs to actually work in the real world.
 
-end-to-end pipelines. not isolated models.
 ```
 
 <br>
